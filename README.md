@@ -12,4 +12,5 @@ cd build
 cmake -DCMAKE_INSTALL_PREFIX=$CONDA_PREFIX ..
 make
 make install
+./compile.sh
 ```
