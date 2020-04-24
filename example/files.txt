@@ -1,0 +1,10 @@
+GCA_000012685.1_ASM1268v1_genomic.fna.gz
+GCA_000278585.2_ASM27858v2_genomic.fna.gz
+GCA_000340515.1_Myxococcus_xanthus_DZF1_genomic.fna.gz
+GCA_006400955.1_ASM640095v1_genomic.fna.gz
+GCA_006401215.1_ASM640121v1_genomic.fna.gz
+GCA_006401635.1_ASM640163v1_genomic.fna.gz
+GCA_006402015.1_ASM640201v1_genomic.fna.gz
+GCA_006402415.1_ASM640241v1_genomic.fna.gz
+GCA_006402735.1_ASM640273v1_genomic.fna.gz
+GCA_900106535.1_IMG-taxon_2693429903_annotated_assembly_genomic.fna.gz
